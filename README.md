@@ -1,58 +1,25 @@
 <h1 align="center">Bkz Modz</h1>
 
 <p align="center">
-Code, café e foco.<br>
-Desenvolvedor de bots e automações.<br>
-Sempre aprendendo e evoluindo.
+<img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+bots+e+automacoes;Sempre+evoluindo+e+aprendendo+novas+tecnologias" />
 </p>
 
 ---
 
-## Sobre mim
+## Sobre
 
-- Focado em desenvolvimento de bots
-- Automação de WhatsApp
-- Estudando novas tecnologias
-- Evolução constante como desenvolvedor
+Desenvolvedor focado em criação de bots e sistemas automatizados, principalmente para WhatsApp.
 
 ---
 
 ## Tecnologias
 
-- JavaScript (ES6+)
+- JavaScript
 - Node.js
-- Git / GitHub
-- Baileys / Bots WhatsApp
+- Git
 
 ---
 
 ## Projetos
 
-- Shadow-WBase — Base para bots WhatsApp
-- Sistemas de automação
-- Bots de atendimento e utilidades
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BkzModz&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BkzModz&theme=tokyonight" />
-</p>
-
----
-
-## Contato
-
-- GitHub: @BkzModz
-- Foco em desenvolvimento e automação
-
----
-
-<p align="center">
-Sempre evoluindo, nunca parado.
-</p>
+Shadow-WBase — Base para bots WhatsApp e automações
