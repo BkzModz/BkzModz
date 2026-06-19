@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Desenvolvedor focado em bots e automações
+Desenvolvedor focado em bots e automações.
 </p>
 
 ---
