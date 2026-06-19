@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-Desenvolvedor focado em bots e automações para WhatsApp
+Desenvolvedor focado em bots e automações
 </p>
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,git" />
@@ -18,7 +18,7 @@ Desenvolvedor focado em bots e automações para WhatsApp
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 <p align="left">
 
@@ -30,7 +30,7 @@ Desenvolvedor focado em bots e automações para WhatsApp
 
 ---
 
-## ✨ Destaque
+## Destaque
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BkzModz&theme=tokyonight" />
