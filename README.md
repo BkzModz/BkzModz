@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Bkz Modz</h1>
 
-<!--
-**BkzModz/BkzModz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Code, café e foco.<br>
+Desenvolvedor de bots e automações.<br>
+Sempre aprendendo e evoluindo.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Focado em desenvolvimento de bots
+- Automação de WhatsApp
+- Estudando novas tecnologias
+- Evolução constante como desenvolvedor
+
+---
+
+## Tecnologias
+
+- JavaScript (ES6+)
+- Node.js
+- Git / GitHub
+- Baileys / Bots WhatsApp
+
+---
+
+## Projetos
+
+- Shadow-WBase — Base para bots WhatsApp
+- Sistemas de automação
+- Bots de atendimento e utilidades
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BkzModz&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BkzModz&theme=tokyonight" />
+</p>
+
+---
+
+## Contato
+
+- GitHub: @BkzModz
+- Foco em desenvolvimento e automação
+
+---
+
+<p align="center">
+Sempre evoluindo, nunca parado.
+</p>
