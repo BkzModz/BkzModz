@@ -14,21 +14,25 @@ Desenvolvedor focado em criação de bots e automações, principalmente para Wh
 
 ## Tecnologias
 
-- JavaScript (ES6+)
-- Node.js
-- Git / GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git" />
+</p>
 
 ---
 
 ## Projetos
 
-- Shadow-WBase — Base para bots WhatsApp e automações
+<p align="center">
+  <a href="https://github.com/BkzModz/shadow-wbase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BkzModz&repo=shadow-wbase&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## Status
+## Sobre o GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BkzModz&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BkzModz&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BkzModz&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BkzModz&layout=compact&theme=tokyonight" height="160"/>
 </p>
