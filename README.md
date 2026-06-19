@@ -1,7 +1,7 @@
 <h1 align="center">Olá seja Bem-vindo!</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+bots+e+automacoes;Criando+sistemas+para+WhatsApp;Sempre+evoluindo+e+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+bots+e+automacoes;Sempre+evoluindo" />
 </p>
 
 ---
