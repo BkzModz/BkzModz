@@ -22,8 +22,8 @@ Desenvolvedor focado em bots e automações.
 
 <p align="left">
 
-<a href="https://github.com/BkzModz/shadow-wbase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BkzModz&repo=shadow-wbase&theme=tokyonight" />
+<a href="https://github.com/BkzModz/Shadow-WBase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BkzModz&repo=Shadow-WBase&theme=tokyonight" />
 </a>
 
 </p>
